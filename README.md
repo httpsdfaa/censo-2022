@@ -49,7 +49,7 @@ Acessos a recursos básicos:
 Com o censo, conseguimos observar a evolução da população no Brasil e tomar medidas preventivas e até mesmo erradicar certos problemas. A pergunta que mais me deixou curioso foi: por que os números mostram que 35,31% da população brasileira não possui conexão à rede de esgoto? Quais são os problemas enfrentados para que essa parcela da população não tenha essa conexão direta?
 
 ## VISUALIZAÇÕES POWER BI
-![alt text](image.png)
-![alt text](image-1.png)
-![alt text](image-2.png)
-![alt text](image-3.png)
+![alt text](img/image.png)
+![alt text](img/image-1.png)
+![alt text](img/image-2.png)
+![alt text](img/image-3.png)
